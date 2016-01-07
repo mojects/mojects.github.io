@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Contrast avenue
+title: Welcome
 email: info@coav.ru
 description: > # this means to ignore newlines until "baseurl:"
-  Contrast avenue
+  fo shizzle dizzle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.coav.ru" # the base hostname & protocol for your site
 github_username:  garmoshka-mo
